@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "11",
+      "firstName": "Tolya",
+      "age": 18,
+      "companyId": "33"
+    },
+    {
+      "id": "22",
+      "firstName": "Kika",
+      "age": 56,
+      "companyId": "33"
+    },
+    {
+      "id": "55",
+      "firstName": "Igor",
+      "age": 45,
+      "companyId": "44"
+    },
+    {
+      "firstName": "Lyolik",
+      "age": 49,
+      "companyId": "33",
+      "id": "66"
+    }
+  ],
+  "companies": [
+    {
+      "id": "33",
+      "name": "Apple",
+      "description": "IPhone"
+    },
+    {
+      "id": "44",
+      "name": "Samsung",
+      "description": "Galaxy Note"
+    }
+  ]
+}
